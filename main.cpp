@@ -56,6 +56,8 @@ int main()
 		
 		//tesest an moi 2
 		Sleep(4);
+		//test (ve khung)
+		Sleep(1);
 		
         r.Ve();
         r.DiChuyen(Huong);
