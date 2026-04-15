@@ -53,6 +53,10 @@ int main()
 		Sleep(3);
 		
         system("cls");
+		
+		//tesest an moi 2
+		Sleep(4);
+		
         r.Ve();
         r.DiChuyen(Huong);
         Sleep(300);
