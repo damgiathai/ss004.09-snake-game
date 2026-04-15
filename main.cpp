@@ -48,6 +48,10 @@ int main()
             if (t=='d') Huong = 0;
             if (t=='x') Huong = 1;
         }
+		
+		//tesest an moi
+		Sleep(3);
+		
         system("cls");
 		
 		//test (ve khung)
