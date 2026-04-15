@@ -49,6 +49,10 @@ int main()
             if (t=='x') Huong = 1;
         }
         system("cls");
+		
+		//test (ve khung)
+		Sleep(1);
+		
         r.Ve();
         r.DiChuyen(Huong);
         Sleep(300);
